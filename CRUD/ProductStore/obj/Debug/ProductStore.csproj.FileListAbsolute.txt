@@ -1,0 +1,72 @@
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\ProductStore.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\ProductStore.pdb
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\Antlr3.Runtime.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\EntityFramework.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\Newtonsoft.Json.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Net.Http.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Net.Http.Formatting.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Net.Http.WebRequest.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.Helpers.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.Http.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.Http.WebHost.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.Mvc.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.Optimization.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.Providers.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.Razor.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.WebPages.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\WebGrease.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\EntityFramework.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\Newtonsoft.Json.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Net.Http.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Net.Http.Formatting.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Net.Http.WebRequest.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.Helpers.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.Http.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.Http.WebHost.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.Mvc.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.Razor.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.WebPages.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\obj\Debug\ProductStore.csprojResolveAssemblyReference.cache
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\obj\Debug\ProductStore.dll
+C:\Users\Xv2\Downloads\ASP. NET Web API Tutorial 02 CRUD Operations\C#\ProductStore\obj\Debug\ProductStore.pdb
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\ProductStore.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\ProductStore.pdb
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\Antlr3.Runtime.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\EntityFramework.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\Newtonsoft.Json.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Net.Http.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Net.Http.Formatting.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Net.Http.WebRequest.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.Helpers.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.Http.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.Http.WebHost.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.Mvc.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.Optimization.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.Providers.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.Razor.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.WebPages.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\WebGrease.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\EntityFramework.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\Newtonsoft.Json.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Net.Http.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Net.Http.Formatting.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Net.Http.WebRequest.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.Helpers.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.Http.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.Http.WebHost.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.Mvc.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.Razor.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.WebPages.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\obj\Debug\ProductStore.csprojResolveAssemblyReference.cache
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\obj\Debug\ProductStore.dll
+C:\Users\Xv2\Documents\GitHub\XelaValley\CRUD\ProductStore\obj\Debug\ProductStore.pdb
